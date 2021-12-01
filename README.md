@@ -1,6 +1,4 @@
-Java Hello World Demo
+Java Binary to String to Directly Demo
 =====================
-
-Use maven for Java.
 
 Run `Hello.java` in your IDE.
